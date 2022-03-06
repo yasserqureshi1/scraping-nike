@@ -1,6 +1,6 @@
 # Scraping the Web: NIKE
 
-This repository is for the [Scraping the Web: Nike]() YouTube video.
+This repository is for the [Scraping the Web: Nike](https://www.youtube.com/watch?v=aCeoJ3PYIak) YouTube video.
 
 ## Installation
 
